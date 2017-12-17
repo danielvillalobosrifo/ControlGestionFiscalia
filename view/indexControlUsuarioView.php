@@ -104,9 +104,6 @@ $(document).ready(function() {
 </script>
   </head>
   <body>
-      <div>
-          <h1>Hola culiao</h1>
-      </div>
     <div id="contenedor">
       <header>
           <img src="images/logo.gif" alt=""/>
