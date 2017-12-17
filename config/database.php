@@ -6,5 +6,5 @@ return array(
     "pass"      =>"",
     "database"  =>"R_FISCALIA",
     "charset"   =>"utf8"
-);
+)
 ?>
